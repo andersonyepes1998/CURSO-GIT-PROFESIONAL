@@ -1,0 +1,18 @@
+	DATOS DE FOREACH,FILTER,FIND,MAP,SOME....
+
+----FILTER = RECORRER EL ARREGLO Y FILTRAR CON ALGUNA CONDICION...
+
+----QUE ES UNA FUNCIÓN ANONIMA: Una funcion anonima, es una funcion que no tiene nombre y que solo se ejecuta una sol vez....
+
+----QUE ES MONOHILO NODE.JS: Su sistema monohilo es escalable ya que permite manejar un gran número de conexiones a la vez sin que se afecte el rendimiento del servidor. 
+------Este entorno es muy veloz gracias a su sistema de hilos sin bloqueo.
+
+----FIND = devuelve el valor del primer elemento del array que cumple la función de prueba proporcionada.
+
+----FOREACH = ejecuta la función indicada una vez por cada elemento del array.
+
+----MAP = map() devuelve un nuevo Array con los resultados de aplicar sumaUno() en todas las posiciones. Por eso al hacer console. 
+----log se imprime por consola un listado nuevo con los resultados de sumar 1 a los elementos del listado original.
+
+----SOME = some() ejecuta la función callback una vez por cada elemento presente en el array hasta que encuentre uno donde callback retorna un valor verdadero (true).
+ Si se encuentra dicho elemento, some() retorna true inmediatamente.
