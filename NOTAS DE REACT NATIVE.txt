@@ -1,0 +1,6 @@
+---NOTA DE REACT NATIVE---
+
+---PARA CREAR UN PROYECTO NUEVO EN REACT NATIVE ES: npx create-expo-app 'nombredelproyecto'
+---PARA ARRANCA UN PROYECTO SERIA: npm start,
+---PARA INSTALAR EXPO SERIA: npm i expo-cli,
+---EN EL PACKAGE.JSON CAMBIAMOS: 'npx expo start --web'
