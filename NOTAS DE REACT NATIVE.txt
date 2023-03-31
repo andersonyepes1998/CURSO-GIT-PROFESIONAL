@@ -4,9 +4,11 @@
 ---PARA ARRANCA UN PROYECTO SERIA: npm start,
 ---PARA INSTALAR EXPO SERIA: npm i expo-cli,
 ---EN EL PACKAGE.JSON CAMBIAMOS: 'npx expo start --web'
+---npx expo start --web.
 
 --------SEGUNDO MOMENTO--------------
 
-
 ---Para crear un paquete vamos a descargar un paquete que se llama 'REACT HOOK FORM.'
 ---Para poder crear buenos diseños con react native es la siguiente: 'npm i react-native-paper'
+---Para sacar los ions seria de la siguiente forma: "material design icons".
+        para urilizar los iconos es solo poner el nombre de lo que le guste de material icons.
