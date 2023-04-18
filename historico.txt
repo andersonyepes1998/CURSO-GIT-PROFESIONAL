@@ -9,6 +9,10 @@
 ----$ git log historio.txt      = ver el historico de un archivo me indica HEAD que es el estado actual
 ----$ git show historico.txt    = ver mas detalles de un archivo  
 ----$ git reset 32e88fcab27b48adcb5f86f0756a7fb6c1c7f5de --hard = para regresar a una vesion anterior el
+----------------------------------------------------
+----$ git config Credential.helper ""  =  PARA BORRAR CREDENCIALES EN LA UNIVERSIDAD.....
+----$ git config--global--unset Credential.helper ""   = PARA BORRAR CREDENCIALES EN EL COMPU PERSONAL MIO.....
+-----------------------------------------------------
 ------numero largo es la version obtenida con git log
 
         RAMAS DE FUNCION FEATURE
