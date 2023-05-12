@@ -14,3 +14,12 @@
         para urilizar los iconos es solo poner el nombre de lo que le guste de material icons.
 ---bottom tab navigator react native
 ---google fonts material icons...
+
+
+--------SEGUNDO MOMENTO--------------
+
+
+---Primero vamos a mongoDB, vamos al logo de arriba, despues de que entre vamos a products, Comunity edition, bajamos
+   y descargamos los 6.0.5.
+---Tabnine una extencion para autocompletar.
+---
