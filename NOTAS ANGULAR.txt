@@ -1,0 +1,7 @@
+--- Para crear una pryecto en angular es de la siguiente forma: ng new aqui el nombre del proyecto.
+--- Cuando lo crea te va a pedir el routing le damos yes, los estilos css...
+--- 
+--- Para lanzar un proyecto en angular es de la siguiente forma:ng serve -o
+--- Para crear un coponente en agular es de la siguiente forma: ng generate component nombre
+
+
