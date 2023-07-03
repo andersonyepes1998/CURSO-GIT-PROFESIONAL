@@ -23,3 +23,15 @@
    y descargamos los 6.0.5.
 ---Tabnine una extencion para autocompletar.
 ---
+
+NEXT.JS-REACT-TYPESCRIPT
+npx create-next-app@latest --ts --use-npm
+Es un comando bastante impresionante porque instala todo esto:
+
+react
+react-dom
+next
+typescript
+@types/react
+@types/node
+@types/react-dom
